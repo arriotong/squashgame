@@ -1,2 +1,0 @@
-# squashgame
-squash game
